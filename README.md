@@ -1,6 +1,6 @@
 # kernel-tricks-bench
 
-자세한 분석 결과 : report.pdf에서 확인 가능합니다.
+자세한 분석 : report.pdf에서 확인 가능합니다.
 
 # Nonlinear-Data-Modeling | Feature Mapping & Kernel K-Means
 
