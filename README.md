@@ -4,6 +4,9 @@
 
 # Nonlinear-Data-Modeling | Feature Mapping & Kernel K-Means
 
+<img width="1612" height="586" alt="image" src="https://github.com/user-attachments/assets/0ae4fee1-2103-4c37-8a28-2fbd4c12ed1e" />
+
+
 two-moons / corners 같은 **비선형 구조 데이터**에 대해,  
 **지도학습(분류)** 과 **비지도학습(군집)** 대표 기법을 **NumPy만 사용해 from-scratch로 구현**하고,  
 학습/추론/시각화까지 전체 파이프라인을 구성한 프로젝트입니다.
