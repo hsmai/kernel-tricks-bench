@@ -1,6 +1,4 @@
-# kernel-tricks-bench
 
-자세한 분석 : report.pdf에서 확인 가능합니다.
 
 # Nonlinear-Data-Modeling | Feature Mapping & Kernel K-Means
 
@@ -9,7 +7,11 @@
 
 two-moons / corners 같은 **비선형 구조 데이터**에 대해,  
 **지도학습(분류)** 과 **비지도학습(군집)** 대표 기법을 **NumPy만 사용해 from-scratch로 구현**하고,  
-학습/추론/시각화까지 전체 파이프라인을 구성한 프로젝트입니다.
+학습/추론/시각화까지 전체 파이프라인을 구성한 프로젝트입니다.<br>
+
+자세한 분석 : report.pdf에서 확인 가능합니다.
+
+<br>
 
 [포함된 프로젝트 (총 4개)]
 - Feature Mapping + Logistic Regression (two-moons)
